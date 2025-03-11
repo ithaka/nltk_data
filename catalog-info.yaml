@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: nltk_data
+  description: Auto-generated catalog-info.yaml.
+  tags:
+  - python
+  - xslt
+  - shell
+  - makefile
+spec:
+  type: unknown
+  owner: group:possible-orphan
+  lifecycle: unknown
